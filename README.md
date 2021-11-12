@@ -1,2 +1,3 @@
-# light_stair
-Project by create stair steps lighting
+# WTF
+
+My old project. I'm still hope finishing it =)
